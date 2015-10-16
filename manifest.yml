@@ -1,0 +1,9 @@
+applications:
+- disk_quota: 512M
+  host: spring3-mvc-maven-xml-hello-world
+  name: spring3-mvc-maven-xml-hello-world
+  path: spring3-mvc-maven-xml-hello-world.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
+  buildpack: liberty-for-java
