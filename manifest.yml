@@ -2,7 +2,7 @@ applications:
 - disk_quota: 512M
   host: spring3-mvc-maven-xml-hello-world
   name: spring3-mvc-maven-xml-hello-world
-  path: spring3-mvc-maven-xml-hello-world.war
+  path: spring3-mvc-maven-xml-hello-world-1.0-SNAPSHOT.war
   domain: mybluemix.net
   instances: 1
   memory: 512M
